@@ -9,3 +9,8 @@ I build web applications and work on search and lead generation for service busi
 - [Curbcut](https://www.curbcutaccessibility.com/) provides website accessibility audits, remediation, and a free accessibility checker.
 - [Remoteria](https://www.remoteria.com/) helps small teams hire and manage remote staff.
 - [HVACFound](https://www.hvacfound.com/) provides search marketing, advertising, and websites for HVAC contractors.
+
+## Equipment research projects
+
+- [Chamber Bench](https://www.chamberbench.com/) compares chamber vacuum sealers using published specifications and includes a running-cost calculator.
+- [Millwright](https://www.grainmillwright.com/) compares grain mills and documents how it checks manufacturer specifications.
