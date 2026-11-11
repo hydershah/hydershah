@@ -7,3 +7,5 @@ I build web applications and work on search and lead generation for service busi
 - [AgenticOps](https://agenticops.ae/) helps UAE businesses design and implement AI agents.
 - [SEO Migration Studio](https://seomigrationstudio.com/) handles WordPress migrations, redirects, and post-launch URL checks.
 - [Curbcut](https://www.curbcutaccessibility.com/) provides website accessibility audits, remediation, and a free accessibility checker.
+- [Remoteria](https://www.remoteria.com/) helps small teams hire and manage remote staff.
+- [HVACFound](https://www.hvacfound.com/) provides search marketing, advertising, and websites for HVAC contractors.
